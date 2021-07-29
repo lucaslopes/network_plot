@@ -130,3 +130,7 @@ dmypy.json
 
 # IDE
 .vscode
+
+# Required from Dash documentation
+*.pyc
+.DS_Store
